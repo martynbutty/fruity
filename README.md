@@ -1,5 +1,5 @@
 # Fruity App
-Fruity app will read a html page from Sainsbury's web site. It will then parse the products on the page,
+Fruity app will read a html page. It will then parse the products on the page,
 visit individual product pages, and return JSON formatted output.
 
 ## Running the App
